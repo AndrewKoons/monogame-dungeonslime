@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MonoGameLibrary/1.0.0": {
+        "dependencies": {
+          "MonoGame.Framework.Native": "3.8.6.1"
+        },
+        "runtime": {
+          "MonoGameLibrary.dll": {}
+        }
+      },
+      "MonoGame.Framework.Native/3.8.6.1": {
+        "runtime": {
+          "lib/netstandard2.1/MonoGame.Framework.dll": {
+            "assemblyVersion": "3.8.6.1",
+            "fileVersion": "3.8.6.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonoGameLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MonoGame.Framework.Native/3.8.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fHR1QObbJO7HxR2drafxYPSlWf8SK3IdIRWm8IBl0+w6iKOMleqQ4a0F5KhfOAFNEMoHhuW2qFmh2a1t80Jy7A==",
+      "path": "monogame.framework.native/3.8.6.1",
+      "hashPath": "monogame.framework.native.3.8.6.1.nupkg.sha512"
+    }
+  }
+}
