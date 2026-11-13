@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\DungeonSlime\\DungeonSlime.csproj": {}
+    "c:\\repos\\monogame-dungeonslime\\DungeonSlime\\DungeonSlime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\DungeonSlime\\DungeonSlime.csproj": {
+    "c:\\repos\\monogame-dungeonslime\\DungeonSlime\\DungeonSlime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\DungeonSlime\\DungeonSlime.csproj",
+        "projectUniqueName": "c:\\repos\\monogame-dungeonslime\\DungeonSlime\\DungeonSlime.csproj",
         "projectName": "DungeonSlime",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\DungeonSlime\\DungeonSlime.csproj",
+        "projectPath": "c:\\repos\\monogame-dungeonslime\\DungeonSlime\\DungeonSlime.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\DungeonSlime\\obj\\",
+        "outputPath": "c:\\repos\\monogame-dungeonslime\\DungeonSlime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -27,8 +27,8 @@
             "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-                "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj"
+              "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+                "projectPath": "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj"
               }
             }
           }
@@ -97,14 +97,14 @@
         }
       }
     },
-    "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\obj\\",
+        "outputPath": "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -44,11 +44,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectUniqueName": "C:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "projectName": "MonoGameLibrary",
-      "projectPath": "c:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectPath": "C:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\obj\\",
+      "outputPath": "C:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config"

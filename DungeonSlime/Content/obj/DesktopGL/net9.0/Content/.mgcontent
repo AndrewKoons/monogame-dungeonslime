@@ -4,10 +4,18 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/andre/OneDrive/Documents/Monogame/DungeonSlime/Content/images/atlas.png</File>
-    <File>C:/Users/andre/OneDrive/Documents/Monogame/DungeonSlime/Content/images/logo.png</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/audio/bounce.wav</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/audio/collect.wav</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/audio/theme.ogg</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/fonts/04B_30.spritefont</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/images/atlas.png</File>
+    <File>c:/repos/monogame-dungeonslime/DungeonSlime/Content/images/logo.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

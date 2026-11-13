@@ -10,3 +10,16 @@ C:\Users\andre\OneDrive\Documents\Monogame\MonoGameLibrary\obj\Debug\net9.0\Mono
 C:\Users\andre\OneDrive\Documents\Monogame\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
 C:\Users\andre\OneDrive\Documents\Monogame\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
 C:\Users\andre\OneDrive\Documents\Monogame\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll
+c:\repos\monogame-dungeonslime\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.deps.json
+c:\repos\monogame-dungeonslime\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\repos\monogame-dungeonslime\MonoGameLibrary\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.AssemblyReference.cache
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfoInputs.cache
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.AssemblyInfo.cs
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.csproj.CoreCompileInputs.cache
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.sourcelink.json
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.dll
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\refint\MonoGameLibrary.dll
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\MonoGameLibrary.pdb
+c:\repos\monogame-dungeonslime\MonoGameLibrary\obj\Debug\net9.0\ref\MonoGameLibrary.dll

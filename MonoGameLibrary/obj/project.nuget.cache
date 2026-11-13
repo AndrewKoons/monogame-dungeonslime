@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "82ZOPoLVF+0=",
+  "dgSpecHash": "E/IJK/ICvRw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Documents\\Monogame\\MonoGameLibrary\\MonoGameLibrary.csproj",
+  "projectFilePath": "c:\\repos\\monogame-dungeonslime\\MonoGameLibrary\\MonoGameLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\monogame.framework.native\\3.8.6.1\\monogame.framework.native.3.8.6.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.22\\microsoft.netcore.app.ref.9.0.22.nupkg.sha512",

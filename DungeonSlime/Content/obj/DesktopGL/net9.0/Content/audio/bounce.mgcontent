@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/repos/monogame-dungeonslime/DungeonSlime/Content/audio/bounce.wav</SourceFile>
+  <SourceTime>2026-11-11T15:05:13.0587294-08:00</SourceTime>
+  <DestFile>c:/repos/monogame-dungeonslime/DungeonSlime/Content/bin/DesktopGL/Content/audio/bounce.xnb</DestFile>
+  <DestTime>2026-11-11T16:04:21.7480665-08:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2026-11-03T16:14:02-08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2026-11-03T16:14:02-08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.6.1</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

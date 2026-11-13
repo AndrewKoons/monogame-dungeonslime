@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>c:/repos/monogame-dungeonslime/DungeonSlime/Content/fonts/04B_30.spritefont</SourceFile>
+  <SourceTime>2026-11-12T23:04:34.4394412-08:00</SourceTime>
+  <DestFile>c:/repos/monogame-dungeonslime/DungeonSlime/Content/bin/DesktopGL/Content/fonts/04B_30.xnb</DestFile>
+  <DestTime>2026-11-12T23:04:43.3422649-08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2026-11-03T16:14:02-08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2026-11-03T16:14:02-08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Parameters>
+    <Key>Version</Key>
+    <Value>3.8.6.1</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
